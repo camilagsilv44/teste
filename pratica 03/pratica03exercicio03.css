@@ -1,0 +1,33 @@
+#soma,
+#subtracão,
+#multiplicaçao,
+#divisao,
+#resto{
+    font-size: 1.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15rem;
+    background-color: bisque;
+
+}
+#soma{
+    color: greenyellow
+}
+#subtraçao{ color: red;
+
+}
+
+#multiplicaçao {
+    color: blue;
+}
+#divisao{
+    color: violet;
+
+}
+#resto {
+    color: orangered;
+    
+}
+.numero{
+    font-size: 1 5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
